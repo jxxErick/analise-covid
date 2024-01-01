@@ -1,4 +1,4 @@
-<h1>Python e Machine Learning com o objetivo de Prever a Evolução do COVID-19 no Brasil</h1>
+<center><h1>Python e Machine Learning com o objetivo de Prever a Evolução do COVID-19 no Brasil</h1>
 
 ## Descrição
 Este projeto realiza uma análise exploratória dos casos de COVID-19 no Brasil, utilizando dados antigos, fornecidos na formação de Python da DIO.
@@ -13,6 +13,6 @@ Este projeto realiza uma análise exploratória dos casos de COVID-19 no Brasil,
 
 
 
-
+</center>
 
 
